@@ -8,6 +8,24 @@
 
 本项目完全免费，任何未经授权的售卖、复制、破解行为将会遭到法律追诉。我们坚决维护本项目的合法权益，保证用户在使用过程中获得纯粹的公益服务。
 
+## 📋 支持的功能（Web Gui）
+- （仪表盘）服务器状态监测（Palworld 服务端状态、Cpu占用率、内存占用率、在线玩家数、存档备份数、玩家在线记录图表、在线玩家所在区域图表）
+- （安装/更新）一键式安装安装运行库（棉花糖亚太加速节点）、Palworld服务端（支持SteamCMD安装更新和棉花糖亚太加速节点安装更新）
+- （配置/管理）一键可视化管理Palworld的配置文件、配置开服器支持的功能（玩家进入退出通知、禁止某些区域玩家进入、禁止Steam失信玩家进入、崩溃重启、优化服务端性能、设置社群服务器等）
+- （玩家管理）一键查看玩家信息（Steam/Xbox、地理区域、封禁玩家、踢出玩家等）
+- （反作弊）一键安装、更新、使用、配置公益反作弊项目（PalGurad）
+- （定时任务）一键设置定时任务（每N分钟、每天）可以设置定时备份、定时开关重启Palworld服务端
+- （备份管理）一键管理所有存档备份，下载、恢复存档备份
+
+## 🖼️ 支持的功能（截图）
+![仪表板](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/dashboard.png "仪表板截图")
+![安装/更新](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/installAndUpdate.png "安装/更新截图")
+![配置/管理](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/config.png "配置/管理截图")
+![玩家管理](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/player.png "玩家管理截图")
+![反作弊](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/antiCheat.png "反作弊截图")
+![定时任务](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/autoTask.png "定时任务截图")
+![备份管理](https://jdkj-asia-cdn-01.paonima.top/file/Mht_PalWorld_ServerKit/all_img/backup.png "备份管理截图")
+
 ## 🖥️ 运行环境
 
 ### Windows
