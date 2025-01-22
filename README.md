@@ -1,6 +1,5 @@
 # 🧸 棉花糖幻兽帕鲁开服器
 
-## 官方网站
 [![访问官网](https://img.shields.io/badge/访问官网-简体中文-blue?style=for-the-badge)](https://mht-palworldserverkit.yankekeji.cn/zh_cn.html#/)
 [![加入QQ群](https://img.shields.io/badge/加入QQ群-点击加入-green?style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=N_6IyZrxAur6vy8c_8t-3u3S53CjoX8A&jump_from=webapi&authKey=kJ2Ylbcr5OVpTQgGDn74ZFKTApiSx+wdyZ0ZlIP0gmv4+sG2LiPFdgPvUDwXvNH1)
 [![访问B站](https://img.shields.io/badge/访问B站-官方空间-red?style=for-the-badge)](https://space.bilibili.com/681162160)
