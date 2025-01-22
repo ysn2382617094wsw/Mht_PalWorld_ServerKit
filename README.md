@@ -2,9 +2,8 @@
 
 ## 官方网站
 [![访问官网](https://img.shields.io/badge/访问官网-简体中文-blue?style=for-the-badge)](https://mht-palworldserverkit.yankekeji.cn/zh_cn.html#/)
-## 官方QQ群
 [![加入QQ群](https://img.shields.io/badge/加入QQ群-点击加入-green?style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=N_6IyZrxAur6vy8c_8t-3u3S53CjoX8A&jump_from=webapi&authKey=kJ2Ylbcr5OVpTQgGDn74ZFKTApiSx+wdyZ0ZlIP0gmv4+sG2LiPFdgPvUDwXvNH1)
-## 官方Bilibili
+[![访问B站](https://img.shields.io/badge/访问B站-官方空间-red?style=for-the-badge)](https://space.bilibili.com/681162160)
 **棉花糖幻兽帕鲁开服器** 是由 **（中国）内蒙古研科科技有限公司** 开发的公益项目。该项目旨在为幻兽帕鲁（**PalWorld**）服务器提供快速搭建和在线管理功能。我们致力于让玩家和开发者更加便捷地使用本工具，并为社区做出贡献。
 
 本项目完全免费，任何未经授权的售卖、复制、破解行为将会遭到法律追诉。我们坚决维护本项目的合法权益，保证用户在使用过程中获得纯粹的公益服务。
