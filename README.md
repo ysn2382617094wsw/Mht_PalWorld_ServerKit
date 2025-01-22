@@ -1,8 +1,8 @@
 # 🧸 棉花糖幻兽帕鲁开服器
 
-[![Website](https://img.shields.io/badge/-官网-111111?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
-[![QQ Group]([https://img.shields.io/badge/-官方群组-111111?style=for-the-badge&logo=tencent-qq&logoColor=white](https://qm.qq.com/cgi-bin/qm/qr?k=N_6IyZrxAur6vy8c_8t-3u3S53CjoX8A&jump_from=webapi&authKey=kJ2Ylbcr5OVpTQgGDn74ZFKTApiSx+wdyZ0ZlIP0gmv4+sG2LiPFdgPvUDwXvNH1))]([https://qm.qq.com/cgi-bin/qm/qr?k=YourQQGroupLink](https://qm.qq.com/cgi-bin/qm/qr?k=N_6IyZrxAur6vy8c_8t-3u3S53CjoX8A&jump_from=webapi&authKey=kJ2Ylbcr5OVpTQgGDn74ZFKTApiSx+wdyZ0ZlIP0gmv4+sG2LiPFdgPvUDwXvNH1))
-[![Bilibili]([https://img.shields.io/badge/-Bilibili-111111?style=for-the-badge&logo=bilibili&logoColor=white](https://space.bilibili.com/681162160))]([https://www.bilibili.com](https://space.bilibili.com/681162160))
+官方网站（简体中文）：https://mht-palworldserverkit.yankekeji.cn/zh_cn.html#/
+官方QQ群：https://qm.qq.com/cgi-bin/qm/qr?k=N_6IyZrxAur6vy8c_8t-3u3S53CjoX8A&jump_from=webapi&authKey=kJ2Ylbcr5OVpTQgGDn74ZFKTApiSx+wdyZ0ZlIP0gmv4+sG2LiPFdgPvUDwXvNH1
+官方Bilibili：https://space.bilibili.com/681162160
 
 **棉花糖幻兽帕鲁开服器** 是由 **（中国）内蒙古研科科技有限公司** 开发的公益项目。该项目旨在为幻兽帕鲁（**PalWorld**）服务器提供快速搭建和在线管理功能。我们致力于让玩家和开发者更加便捷地使用本工具，并为社区做出贡献。
 
