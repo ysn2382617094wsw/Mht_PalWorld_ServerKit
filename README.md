@@ -66,8 +66,9 @@
 11. **Colorful.Console** 🌈
 12. **CliWrap** 🔲
 13. **Aria2.NET** 📥
-14. **SteamCMD API**（MIT） 💻
-15. **GeoCN**（GPL 3.0）🌍
+14. **SteamCMD API**（Apache-2.0） 💼
+15. **Quartz**（MIT） 💻
+16. **GeoCN**（GPL 3.0）🌍
 
 本项目使用了 [GeoCN](https://github.com/ljxi/GeoCN) 库提供的离线 GeoIP 数据库（mmdb 文件）进行 IP 查询。该库的许可协议为 **GPL 3.0**。我们尊重该库的开源协议，若对库的使用、分发或修改有任何问题，请遵守 GPL 3.0 的相关条款。
 
