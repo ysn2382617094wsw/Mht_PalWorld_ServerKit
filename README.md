@@ -60,14 +60,14 @@
 5. **Microsoft.VisualBasic** [License](https://github.com/dotnet/corefx/blob/master/LICENSE.TXT) 💼
 6. **Microsoft.Extensions.FileProviders.Embedded**（MIT） ⚙️
 7. **Microsoft.Data.Sqlite**（MIT） 💻
-8. **MaxMind.GeoIP2** 🌍
-9. **MaxMind.Db** 🌐
-10. **CoreRCON** 🎮
-11. **Colorful.Console** 🌈
-12. **CliWrap** 🔲
-13. **Aria2.NET** 📥
-14. **SteamCMD API**（MIT） 💼
-15. **Quartz**（Apache-2.0） 💻
+8. **MaxMind.GeoIP2**（Apache-2.0） 🌍
+9. **MaxMind.Db**（Apache-2.0） 🌐
+10. **RconSharp**（MIT） 🎮
+11. **Colorful.Console**（MIT） 🌈
+12. **CliWrap**（MIT） 🔲
+13. **Aria2.NET**（MIT） 📥
+14. **SteamCMD API**（MIT） 💻
+15. **Quartz**（Apache-2.0） 💼
 16. **GeoCN**（GPL 3.0）🌍
 
 本项目使用了 [GeoCN](https://github.com/ljxi/GeoCN) 库提供的离线 GeoIP 数据库（mmdb 文件）进行 IP 查询。该库的许可协议为 **GPL 3.0**。我们尊重该库的开源协议，若对库的使用、分发或修改有任何问题，请遵守 GPL 3.0 的相关条款。
